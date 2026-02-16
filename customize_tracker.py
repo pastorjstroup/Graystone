@@ -21,7 +21,7 @@ def get_staff_names():
     print("(Press Enter with a blank name when done)\n")
     
     staff = []
-    default_names = ['Pastor Mike', 'Elder Tom', 'Elder Sarah', 'Deacon James', 'Deacon Linda']
+    default_names = ['Joe Stroup', 'Shari Costello', 'Connie Bothell', 'Randy Jenkins']
     
     print("Default names are:", ", ".join(default_names))
     print("\nDo you want to use custom names? (y/n): ", end='')
